@@ -81,6 +81,6 @@
   }
 
   myImage.onmouseout = function() {
-    myImage.src = "../assets/img/myAvatar.png"
+    myImage.src = "myAvatar.png"
   }
   
