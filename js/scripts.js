@@ -76,7 +76,7 @@
   let myImage = document.getElementById("myAvatar")
 
   myImage.onmouseover = function() {
-   myImage.src = "../assets/img/about.jpg" //the image changes after hovering over the avatat
+   myImage.src = "about.jpg" //the image changes after hovering over the avatat
 
   }
 
